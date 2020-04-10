@@ -1,14 +1,14 @@
 body {
-  background: pink;
+  background: grey;
 }
 
 h1 {
-  color: blue;
+  color: deeppink;
   font-size: 3em; 
 }
 
 h2 {
-  color: green;
+  color: purple;
   font-weight: normal;
   font-style: italic;
 }
